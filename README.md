@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dharaneesh N
 
-**AI & Machine Learning Engineer** — building multi-agent LLM pipelines, RAG systems, and full-stack ML infrastructure.
+**AI &amp; Machine Learning Engineer** — building multi-agent LLM pipelines, RAG systems, and full-stack ML infrastructure.
 
 - 🔭 I'm currently working on: MultiAgent Orchestrator with LangGraph + FastAPI + Kubernetes
 - 🌱 I'm currently learning: GraphRAG, Distributed Systems, LLM Agent Orchestration
@@ -19,13 +19,13 @@
 
 **Databases:** PostgreSQL, Redis, Qdrant, TigerGraph, Supabase
 
-**Web & Tools:** FastAPI, React, Next.js, Celery, Prefect, Git, Vercel, Google Cloud
+**Web &amp; Tools:** FastAPI, React, Next.js, Celery, Prefect, Git, Vercel, Google Cloud
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dharaneeshexe-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
+![Stats](https://github-readme-stats.vercel.app/api?username=dharaneeshexe-web&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharaneeshexe-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dharaneeshexe-web&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10)
 
 ## 🚀 Projects
 
@@ -56,5 +56,5 @@
 
 ## 🎓 Education
 
-**B.Tech — Artificial Intelligence & Machine Learning**  
+**B.Tech — Artificial Intelligence &amp; Machine Learning**  
 SNS College of Technology, Coimbatore | 2024 – Present | CGPA 8.00
