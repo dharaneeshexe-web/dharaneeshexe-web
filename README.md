@@ -1,5 +1,3 @@
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DHARANEESH%20N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=62&descSize=16)
 
 <p align="center">
@@ -11,24 +9,23 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class Dharaneesh:
-    def __init__(self):
-        self.name = "Dharaneesh N"
-        self.location = "Coimbatore, Tamil Nadu"
-        self.degree = "B.Tech in AI & ML @ SNS College of Technology"
-        self.stack = [
-            "Python", "PyTorch", "LangChain", "LangGraph",
-            "FastAPI", "React", "Docker", "Kubernetes"
-        ]
-        self.currently_learning = [
-            "GraphRAG", "Distributed Systems",
-            "LLM Agent Orchestration"
-        ]
-        self.fun_fact = "I build agents that build other agents"
-        self.mail = "dharaneesh794@gmail.com"
+from universe import engineer
 
-    def motto(self):
-        return "Automate everything. Deploy everywhere."
+class Dharaneesh(engineer):
+    def __init__(self):
+        self.name         = "Dharaneesh N"
+        self.location     = "Coimbatore, India"
+        self.degree       = "B.Tech in AI & ML"
+        self.role         = "AI / ML Engineer"
+        self.stack        = ["Python", "PyTorch", "LangChain",
+                             "FastAPI", "Docker", "Kubernetes"]
+        self.currently    = ["GraphRAG", "Distributed Systems",
+                             "LLM Agent Orchestration"]
+        self.fun_fact     = "I build agents that build other agents"
+        self.superpower   = "Shipping production AI, not just notebooks"
+
+    def connect(self) -> str:
+        return "dharaneesh794@gmail.com"
 ```
 
 <br clear="right"/>
@@ -49,6 +46,8 @@ class Dharaneesh:
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-000000?style=flat-square&logo=optuna&logoColor=white)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-000000?style=flat-square&logo=huggingface&logoColor=white)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-000000?style=flat-square&logo=openai&logoColor=white)
 
 ### Frameworks & Web
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -107,6 +106,17 @@ class Dharaneesh:
   </a>
 </div>
 
+### Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<br>
+
 ## 🚀 Featured Projects
 
 | Project | Stack | Highlights |
@@ -136,6 +146,13 @@ class Dharaneesh:
 ⚙️ Distributed Systems → Kubernetes + Kafka + Celery
 🤖 LLM Agents     → LangGraph + Multi-Agent Orchestration
 ```
+
+### Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+<br>
 
 ## 📫 Let's Connect
 
