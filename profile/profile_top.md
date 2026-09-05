@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DHARANEESH%20N&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=62&descSize=16)
 
+<div align="center">
+  <img src="profile/ascii_hero.svg" alt="Dharaneesh N — ASCII terminal hero" style="width:100%; max-width:820px;" />
+</div>
+
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Multi-Agent+LLM+Pipelines;RAG+Systems+%26+GraphRAG;Full-Stack+ML+Infrastructure" alt="Typing SVG" />
