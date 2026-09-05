@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "githubId": 264884983,
+  "username": "dharaneeshexe-web",
+  "profileSlug": "default",
+  "profileName": "Default",
+  "templateId": "native",
+  "widgets": [
+    {
+      "instanceId": "widget_dharaneesh_header_1",
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": { "x": 0, "y": 0 },
+      "size": { "width": 800, "height": 90 },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 1
+    },
+    {
+      "instanceId": "widget_dharaneesh_ascii_2",
+      "widgetId": "ascii-art",
+      "name": "Ascii-art Widget",
+      "position": { "x": 0, "y": 100 },
+      "size": { "width": 300, "height": 300 },
+      "config": {
+        "detail": "medium",
+        "cols": 150,
+        "charset": "dense",
+        "edgeEnhance": true,
+        "lockAspectRatio": true,
+        "rows": 75
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "widget_dharaneesh_terminal_3",
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
+      "position": { "x": 312, "y": 100 },
+      "size": { "width": 488, "height": 300 },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "widget_dharaneesh_stats_4",
+      "widgetId": "stats",
+      "name": "GitHub Live Stats Card",
+      "position": { "x": 0, "y": 410 },
+      "size": { "width": 396, "height": 150 },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_dharaneesh_languages_5",
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": { "x": 404, "y": 410 },
+      "size": { "width": 396, "height": 150 },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_dharaneesh_repos_6",
+      "widgetId": "repositories",
+      "name": "Repositories Widget",
+      "position": { "x": 0, "y": 570 },
+      "size": { "width": 800, "height": 170 },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_dharaneesh_footer_7",
+      "widgetId": "footer",
+      "name": "Footer Widget",
+      "position": { "x": 0, "y": 750 },
+      "size": { "width": 800, "height": 48 },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#0d1117",
+    "textColor": "#e6edf3",
+    "accentColor": "#70a5fd",
+    "borderColor": "#30363d",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 4,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "terminal"
+  },
+  "metadata": {
+    "createdAt": "2026-09-05T00:00:00.000Z",
+    "updatedAt": "2026-09-05T00:00:00.000Z",
+    "schemaVersion": 1,
+    "generatedBy": "manual"
+  }
+}
