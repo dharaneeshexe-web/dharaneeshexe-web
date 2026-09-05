@@ -122,8 +122,7 @@ class Dharaneesh(engineer):
 | Project | Stack | Highlights |
 |---------|-------|------------|
 | [MultiAgent Orchestrator](https://github.com/dharaneeshexe-web/multiagent-orchestrator) | LangGraph + FastAPI + Kubernetes | 5-agent DAG with hallucination scoring, parallel fan-out, automatic retry. 12-container K8s stack with Prometheus/Grafana, OpenTelemetry, CI/CD with rollback |
-| [MLOps Pipeline](https://github.com/dharaneeshexe-web) | PyTorch + Optuna + Kubernetes | Feature store (PostgreSQL + Redis), automated Optuna tuning, model registry with staging-to-production gates, drift detection dashboards |
-| [MedGraph RAG](https://github.com/dharaneeshexe-web) | FAISS + TigerGraph + Groq LLaMA | FAISS RAG, GraphRAG & Hybrid QA. 2-hop retrieval with BERTScore. 5000+ vector embeddings for retrieval benchmarking |
+| [MedGraph RAG](https://github.com/dharaneeshexe-web/MEDGRAPH-TIGERGRAPH) | FAISS + TigerGraph + Groq LLaMA | FAISS RAG, GraphRAG & Hybrid QA. 2-hop retrieval with BERTScore. 5000+ vector embeddings for retrieval benchmarking |
 
 ## 🏆 Achievements
 
@@ -132,13 +131,13 @@ class Dharaneesh(engineer):
 | 🏅 | TigerGraph x BuilderBase GraphRAG Hackathon | Participant (2026) |
 | 🏅 | Scaler OpenEnv Hackathon | Participant (2025) |
 | 🤗 | Hugging Face Spaces | Deployed AI/RL applications |
-| 🌍 | Open Source | Contributed to [langchain/langgraph](https://github.com/langchain-ai/langgraph) |
+| 🌍 | Open Source | Merged [PR #5265](https://github.com/open-telemetry/opentelemetry-python/pull/5265) into [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) |
 
 ## 🎓 Education
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| B.Tech – Artificial Intelligence & Machine Learning | SNS College of Technology, Coimbatore | 2024 – Present | CGPA 8.00 |
+| B.Tech – Artificial Intelligence & Machine Learning | SNS College of Technology, Coimbatore | 2024 – Present | CGPA 8.16 |
 
 ### Currently Learning
 ```text
