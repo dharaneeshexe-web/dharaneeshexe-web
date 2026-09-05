@@ -121,7 +121,7 @@ class Dharaneesh(engineer):
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [MultiAgent Orchestrator](https://github.com/dharaneeshexe-web/MULTIAGENT-LANGRAPH) | LangGraph + FastAPI + Kubernetes | 5-agent DAG with hallucination scoring, parallel fan-out, automatic retry. 12-container K8s stack with Prometheus/Grafana, OpenTelemetry, CI/CD with rollback |
+| [MultiAgent Orchestrator](https://github.com/dharaneeshexe-web/multiagent-orchestrator) | LangGraph + FastAPI + Kubernetes | 5-agent DAG with hallucination scoring, parallel fan-out, automatic retry. 12-container K8s stack with Prometheus/Grafana, OpenTelemetry, CI/CD with rollback |
 | [MLOps Pipeline](https://github.com/dharaneeshexe-web) | PyTorch + Optuna + Kubernetes | Feature store (PostgreSQL + Redis), automated Optuna tuning, model registry with staging-to-production gates, drift detection dashboards |
 | [MedGraph RAG](https://github.com/dharaneeshexe-web) | FAISS + TigerGraph + Groq LLaMA | FAISS RAG, GraphRAG & Hybrid QA. 2-hop retrieval with BERTScore. 5000+ vector embeddings for retrieval benchmarking |
 
@@ -166,5 +166,59 @@ class Dharaneesh(engineer):
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dharaneeshexe-web&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views" />
 </p>
+
+---
+
+## Dharaneesh's Community Chess Tournament
+
+**Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a white (hollow) piece.
+
+|   | A | B | C | D | E | F | G | H |
+| - | - | - | - | - | - | - | - | - |
+| 8 | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/r.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/n.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/b.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/q.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/k.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/b.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/n.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/r.png) |
+| 7 | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/p.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/p.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/p.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/p.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/p.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/p.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/p.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/p.png) |
+| 6 | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) |
+| 5 | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) |
+| 4 | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) |
+| 3 | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/blank.png) |
+| 2 | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/P.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/P.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/P.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/P.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/P.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/P.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/P.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/P.png) |
+| 1 | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/R.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/N.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/B.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/Q.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/K.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/B.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/N.png) | ![](https://raw.githubusercontent.com/dharaneeshexe-web/dharaneeshexe-web/main/chess_images/R.png) |
+
+#### **WHITE (hollow):** It's your move... to choose _where_ to move...
+
+| FROM | TO - _just click one of the links_ :) |
+| ---- | -- |
+| **A2** | [A3](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Ca2a3%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [A4](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Ca2a4%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **B2** | [B3](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Cb2b3%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [B4](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Cb2b4%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **C2** | [C3](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Cc2c3%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [C4](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Cc2c4%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **D2** | [D3](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Cd2d3%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [D4](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Cd2d4%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **E2** | [E3](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Ce2e3%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [E4](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Ce2e4%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **F2** | [F3](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Cf2f3%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [F4](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Cf2f4%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **G2** | [G3](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Cg2g3%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [G4](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Cg2g4%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **H2** | [H3](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Ch2h3%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H4](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Ch2h4%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **B1** | [A3](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Cb1A3%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [C3](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Cb1C3%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **G1** | [F3](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Cg1F3%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H3](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues/new?title=chess%7Cmove%7Cg1H3%7C1&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+
+Ask a friend to take the next move: [Share on Twitter...](https://twitter.com/share?text=I%27m+playing+chess+on+a+GitHub+Profile+Readme!+Can+you+please+take+the+next+move+at+https%3A%2F%2Fgithub.com%2Fdharaneeshexe-web)
+
+**How this works**
+
+When you click a link, it opens a GitHub Issue with the required pre-populated text. Just push "Create New Issue". That will trigger a [GitHub Actions](https://github.blog/2020-07-03-github-action-hero-casey-lee/#getting-started-with-github-actions) workflow that'll update my GitHub Profile _README.md_ with the new state of the board.
+
+**Notice a problem?**
+
+Raise an [issue](https://github.com/dharaneeshexe-web/dharaneeshexe-web/issues), and include the text _cc @dharaneeshexe-web_.
+
+**Last few moves, this game**
+
+| Move  | Who |
+| ----- | --- |
+| _New game_ | _No moves yet._ |
+
+**Top 20 Leaderboard: Most moves across all games, except me.**
+
+| Moves | Who |
+| ----- | --- |
+| _No moves yet._ | _Be the first!_ |
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
