@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img alt="GitAscii Profile" src="https://gitascii.com/api/user/dharaneeshexe-web?v=1757066426" width="100%" />
-</p>
-
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
